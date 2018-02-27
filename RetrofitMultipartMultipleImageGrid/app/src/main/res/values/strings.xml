@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Retrofit Multipart Multiple Image Grid</string>
+
+    <string name="title_activity_main">MultiPhotoSelect</string>
+
+    <string name="permission_rationale">"Storage permission is needed for fetching images from Gallery."</string>
+
+    <!-- Content descriptions -->
+    <string name="descr_image">Image</string>
+
+</resources>
